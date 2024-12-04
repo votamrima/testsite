@@ -308,6 +308,13 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  linux:
+    output: true
+    permalink: /:collection/:path/
+  pets:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -343,10 +350,7 @@ defaults:
 #      author_profile: false
 #      share: true
 
-collections:
-  linux:
-    output: true
-    permalink: /:collection/:path/
+
 
 #  portfolio:
 #    output: true
