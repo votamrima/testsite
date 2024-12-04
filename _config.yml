@@ -164,7 +164,6 @@ include:
   - .htaccess
   - _pages
   - _categories
-  - _categories1
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -326,6 +325,15 @@ defaults:
       show_date: true
       sidebar:
         nav: "docs"
+  # pets
+  - scope:
+      path: ""
+      type: pets
+    values:
+      layout: single
+      author_profile: true
+      share: true
+
 #   _portfolio
 #  - scope:
 #      path: ""
@@ -338,6 +346,8 @@ defaults:
 collections:
   linux:
     output: true
+    permalink: /:collection/:path/
+
 #  portfolio:
 #    output: true
 #    permalink: /:collection/:path/
