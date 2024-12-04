@@ -322,4 +322,6 @@ defaults:
       share: false
       related: true
       show_date: true
-      
+      sidebar:
+        nav: "docs"
+
