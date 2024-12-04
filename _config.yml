@@ -335,6 +335,7 @@ defaults:
       share: true
 
 collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+ - linux
+#  portfolio:
+#    output: true
+#    permalink: /:collection/:path/
