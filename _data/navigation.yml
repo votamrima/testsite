@@ -5,7 +5,7 @@ main:
   - title: "Burt"
     url: https://homelabstory.com/testsite/categories/
   - title: "linux"
-    url: /linux/
+    url: ./linux/
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
