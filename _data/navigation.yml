@@ -3,7 +3,7 @@ main:
   - title: "Categories"
     url: /categories/
   - title: "Burt"
-    url: https://homelabstory.com/testsite/categories/
+    url: https://homelabstory.com/testsite/burt/
   - title: "linux"
     url: ./linux/
   #- title: "Quick-Start Guide"
