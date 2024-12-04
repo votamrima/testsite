@@ -114,7 +114,7 @@ author:
   name             : #"votamrima"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
-  location         : "Germany"
+  location         : #"Germany"
   email            :
   #links:
   #  - label: "Email"
