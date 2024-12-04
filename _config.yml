@@ -332,7 +332,7 @@ defaults:
       share: true
   # linux
   - scope:
-      path: ""
+      path: "linux"
       type: linux
     values:
       layout: single
