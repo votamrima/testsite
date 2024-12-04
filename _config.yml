@@ -164,6 +164,7 @@ include:
   - .htaccess
   - _pages
   - _categories
+  - _categories1
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -335,7 +336,8 @@ defaults:
 #      share: true
 
 collections:
- - linux
+  linux:
+    output: true
 #  portfolio:
 #    output: true
 #    permalink: /:collection/:path/
