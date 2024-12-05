@@ -3,7 +3,8 @@ layout: single
 title: "Force deleting stuck resources in Kubernetes"
 subtitle: ""
 date: 2024-11-03 08:15:00 +0100
-background: '/image/01.jpg'
+categories: linux
+
 tags: ['kubernetes','helm']
 ---
 
