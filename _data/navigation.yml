@@ -1,6 +1,5 @@
 # main links
-#main:
-purpur:
+main:
   - title: "Categories"
     url: /categories/
   - title: "Burt"
@@ -11,8 +10,8 @@ purpur:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Sample Posts"
+    url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
