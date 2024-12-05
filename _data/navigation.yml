@@ -5,15 +5,15 @@ main:
   - title: "Burt"
     url: https://homelabstory.com/testsite/burt/
   - title: "linux"
-    url: /linux/
+    url: /helm/
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Sample Posts"
     url: /year-archive/
-  - title: "helm"
-    url: /helm/    
+  #- title: "helm"
+  #  url: /helm/    
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
