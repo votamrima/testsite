@@ -85,6 +85,10 @@ bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
+# Added by admin
+breadcrumb_home_label : "Start"
+breadcrumb_separator  : ">"
+
 
 # Social Sharing
 twitter:
