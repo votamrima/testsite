@@ -1,6 +1,6 @@
 ---
 title: "linux"
-permalink: /helm/
+permalink: /linux/
 layout: category
 author_profile: true
 #tags: ['helm']
