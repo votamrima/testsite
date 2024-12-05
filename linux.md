@@ -1,7 +1,7 @@
 ---
 title: "linux"
 permalink: /helm/
-layout: categories
+layout: category
 author_profile: true
 #tags: ['helm']
 ---
