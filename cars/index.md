@@ -1,6 +1,6 @@
 ---
 title: "cars"
 permalink: /cars/
-layout: archive
+layout: posts
 author_profile: true
 ---
