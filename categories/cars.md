@@ -1,8 +1,7 @@
 ---
-title: "cars"
+title: "Cars"
 permalink: /cars/
 layout: category
-collections: cars
 author_profile: true
 taxonomy: Cars
 ---
